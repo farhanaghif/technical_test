@@ -1,0 +1,3 @@
+Mini Project Technical Test - Aplikasi Inventory
+
+Aplikasi ini dibuat menggunakan Flutter yang dapat menampilkan data dari API dan menggunakan fitur navigasi. Aplikasi ini memiliki beberapa halaman yang menampilkan data dari API dan memungkinkan pengguna untuk berpindah halaman dengan menggunakan navigasi. Pada Aplikasi ini juga bisa melakukan CRUD data pada menu Perangkat, Stock, APAR, Barang P3K, Barang APD, dan Peralatan Kerja.
